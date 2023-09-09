@@ -29,7 +29,7 @@
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  scrollbar-color: var(--primary) transparent;
+  scrollbar-color: var(--light) transparent;
   scrollbar-width: thin;
 }
 *::selection {
